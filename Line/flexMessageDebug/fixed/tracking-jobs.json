@@ -1,0 +1,262 @@
+{
+    "to": "U06d2f0c1f91f46b0be29beb50871e47a",
+    "messages": [
+        {
+            "type": "flex",
+            "altText": "This is a Flex Message",
+            "contents": {
+                "type": "carousel",
+                "contents": [
+                    {
+                        "type": "bubble",
+                        "header": {
+                            "layout": "baseline",
+                            "paddingBottom": "md",
+                            "paddingTop": "md",
+                            "spacing": "none",
+                            "type": "box",
+                            "contents": [
+                                {
+                                    "size": "md",
+                                    "type": "icon",
+                                    "offsetTop": "5px",
+                                    "url": "https://firebasestorage.googleapis.com/v0/b/fir-develop-c0f9c.appspot.com/o/LINE%2FService%2FAssets%2FAlert.png?alt=media&token=7a1312c8-d814-4e3b-a5f9-09b9e01cf996"
+                                },
+                                {
+                                    "type": "text",
+                                    "size": "sm",
+                                    "contents": [],
+                                    "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น",
+                                    "color": "#265ED6",
+                                    "margin": "15px",
+                                    "wrap": true
+                                }
+                            ]
+                        },
+                        "body": {
+                            "borderWidth": "none",
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "color": "#EF4F30",
+                                    "text": "ยืนยันนัดหมาย",
+                                    "type": "text",
+                                    "size": "lg",
+                                    "weight": "bold"
+                                },
+                                {
+                                    "weight": "bold",
+                                    "wrap": true,
+                                    "margin": "md",
+                                    "color": "#002B4D",
+                                    "text": "บริการล้างแอร์แบบติดผนัง",
+                                    "type": "text",
+                                    "size": "xl",
+                                    "maxLines": 2
+                                },
+                                {
+                                    "aspectMode": "cover",
+                                    "url": "https://firebasestorage.googleapis.com/v0/b/fir-develop-c0f9c.appspot.com/o/LINE%2FService%2FAssets%2FInstall-2.png?alt=media&token=199ae8d5-5107-4a27-adf9-458cd0992c17",
+                                    "align": "center",
+                                    "type": "image",
+                                    "aspectRatio": "5:1",
+                                    "size": "full",
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "contents": [
+                                        {
+                                            "weight": "bold",
+                                            "margin": "md",
+                                            "wrap": true,
+                                            "type": "text",
+                                            "text": "ข้อมูลคำสั่งซื้อ",
+                                            "color": "#014672",
+                                            "size": "md"
+                                        },
+                                        {
+                                            "contents": [
+                                                {
+                                                    "type": "text",
+                                                    "color": "#838799",
+                                                    "text": "Job No.",
+                                                    "flex": 0,
+                                                    "size": "xs"
+                                                },
+                                                {
+                                                    "color": "#292B33",
+                                                    "size": "xs",
+                                                    "type": "text",
+                                                    "align": "end",
+                                                    "text": "Q2506-000166"
+                                                }
+                                            ],
+                                            "type": "box",
+                                            "layout": "horizontal"
+                                        },
+                                        {
+                                            "contents": [
+                                                {
+                                                    "type": "text",
+                                                    "color": "#838799",
+                                                    "flex": 0,
+                                                    "size": "xs",
+                                                    "text": "วันรับบริการ"
+                                                },
+                                                {
+                                                    "text": "25 มิถุนายน 2568",
+                                                    "align": "end",
+                                                    "color": "#292B33",
+                                                    "type": "text",
+                                                    "size": "xs"
+                                                }
+                                            ],
+                                            "layout": "horizontal",
+                                            "type": "box"
+                                        },
+                                        {
+                                            "contents": [
+                                                {
+                                                    "type": "text",
+                                                    "size": "xs",
+                                                    "text": "เวลารับบริการ",
+                                                    "flex": 0,
+                                                    "color": "#838799"
+                                                },
+                                                {
+                                                    "align": "end",
+                                                    "text": "เช้า : 09.00-12.00",
+                                                    "color": "#292B33",
+                                                    "size": "xs",
+                                                    "type": "text"
+                                                }
+                                            ],
+                                            "layout": "horizontal",
+                                            "type": "box"
+                                        },
+                                        {
+                                            "contents": [
+                                                {
+                                                    "text": "ชื่อลูกค้า",
+                                                    "size": "xs",
+                                                    "type": "text",
+                                                    "color": "#838799",
+                                                    "flex": 0
+                                                },
+                                                {
+                                                    "color": "#292B33",
+                                                    "type": "text",
+                                                    "align": "end",
+                                                    "size": "xs",
+                                                    "text": "ชนณ์ประคัลภ์ ภาณุเศรษฐ์กุล"
+                                                }
+                                            ],
+                                            "type": "box",
+                                            "layout": "horizontal"
+                                        },
+                                        {
+                                            "layout": "horizontal",
+                                            "type": "box",
+                                            "contents": [
+                                                {
+                                                    "size": "xs",
+                                                    "text": "ยอดชำระแล้ว",
+                                                    "type": "text",
+                                                    "color": "#838799"
+                                                },
+                                                {
+                                                    "text": "650.00 บาท",
+                                                    "size": "xs",
+                                                    "type": "text",
+                                                    "color": "#292B33",
+                                                    "align": "end"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "margin": "none",
+                                    "spacing": "none",
+                                    "layout": "vertical"
+                                },
+                                {
+                                    "text": "รายละเอียดเพิ่มเติม",
+                                    "type": "text",
+                                    "action": {
+                                        "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F68550c4f2642fcd74383f129%3FjobId%3D68550c642642fcd74383f12e",
+                                        "label": "action",
+                                        "type": "uri"
+                                    },
+                                    "decoration": "underline",
+                                    "color": "#265ED6",
+                                    "size": "xs"
+                                },
+                                {
+                                    "style": "primary",
+                                    "action": {
+                                        "type": "uri",
+                                        "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F68550c4f2642fcd74383f129%3FjobId%3D68550c642642fcd74383f12e%26uploadFileSendImage=true",
+                                        "label": "เพิ่มรูป / วิดีโอหน้างาน"
+                                    },
+                                    "margin": "lg",
+                                    "color": "#014672",
+                                    "type": "button"
+                                },
+                                {
+                                    "margin": "lg",
+                                    "type": "button",
+                                    "action": {
+                                        "label": "เปลี่ยนวันรับบริการ",
+                                        "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F68550c4f2642fcd74383f129%3FjobId%3D68550c642642fcd74383f12e%26updateAppointmentDate=true",
+                                        "type": "uri"
+                                    },
+                                    "style": "primary",
+                                    "color": "#014672"
+                                }
+                            ]
+                        },
+                        "footer": {
+                            "height": "50px",
+                            "contents": [
+                                {
+                                    "aspectRatio": "1:1",
+                                    "offsetStart": "10px",
+                                    "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                                    "size": "xxl",
+                                    "type": "icon"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "โทรหาแอดมิน",
+                                    "margin": "15px",
+                                    "offsetStart": "3px",
+                                    "weight": "bold",
+                                    "size": "xs",
+                                    "offsetTop": "-9px",
+                                    "color": "#265ED6",
+                                    "action": {
+                                        "label": "โทรหาแอดมิน",
+                                        "uri": "tel:028216545",
+                                        "type": "uri"
+                                    }
+                                }
+                            ],
+                            "type": "box",
+                            "layout": "baseline"
+                        },
+                        "styles": {
+                            "header": {
+                                "backgroundColor": "#EEF3FC"
+                            },
+                            "footer": {
+                                "separator": true
+                            }
+                        }
+                    }
+                    
+                ]
+            }
+        }
+    ]
+}
