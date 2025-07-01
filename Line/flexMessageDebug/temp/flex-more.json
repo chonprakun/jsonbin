@@ -1,0 +1,18 @@
+{
+  "type": "bubble",
+  "direction": "ltr",
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "postback",
+          "label": "more",
+          "data": "serviceMenu=tracking-job-2"
+        }
+      }
+    ]
+  }
+}

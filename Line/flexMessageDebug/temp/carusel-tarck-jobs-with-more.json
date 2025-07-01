@@ -1,0 +1,1541 @@
+{
+      "type": "carousel",
+      "contents": [
+        {
+          "header": {
+            "layout": "baseline",
+            "paddingBottom": "md",
+            "spacing": "none",
+            "paddingTop": "md",
+            "type": "box",
+            "contents": [
+              {
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FAlert.png?alt=media&token=7bed3e17-f34c-4b15-9c0c-e18aa20a0566",
+                "size": "md",
+                "offsetTop": "5px"
+              },
+              {
+                "size": "sm",
+                "color": "#265ED6",
+                "margin": "15px",
+                "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น",
+                "wrap": true,
+                "type": "text",
+                "contents": []
+              }
+            ]
+          },
+          "type": "bubble",
+          "footer": {
+            "contents": [
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                "aspectRatio": "1:1",
+                "size": "xxl",
+                "type": "icon",
+                "offsetStart": "10px"
+              },
+              {
+                "offsetTop": "-9px",
+                "color": "#265ED6",
+                "text": "โทรหาแอดมิน",
+                "margin": "15px",
+                "weight": "bold",
+                "offsetStart": "3px",
+                "size": "xs",
+                "action": {
+                  "label": "โทรหาแอดมิน",
+                  "uri": "tel:028216545",
+                  "type": "uri"
+                },
+                "type": "text"
+              },
+              {
+                "size": "xxl",
+                "offsetEnd": "5px",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FNext.png?alt=media&token=483da896-87d1-41d5-8497-64445954c6d6",
+                "type": "icon"
+              }
+            ],
+            "height": "50px",
+            "type": "box",
+            "layout": "baseline"
+          },
+          "styles": {
+            "footer": {
+              "separator": true
+            },
+            "header": {
+              "backgroundColor": "#EEF3FC"
+            }
+          },
+          "body": {
+            "borderWidth": "none",
+            "contents": [
+              {
+                "size": "lg",
+                "color": "#EF4F30",
+                "type": "text",
+                "text": "ยืนยันนัดหมาย",
+                "weight": "bold"
+              },
+              {
+                "color": "#002B4D",
+                "weight": "bold",
+                "type": "text",
+                "wrap": true,
+                "maxLines": 2,
+                "text": "บริการล้างแอร์แบบติดผนัง",
+                "size": "xl",
+                "margin": "md"
+              },
+              {
+                "align": "center",
+                "aspectMode": "cover",
+                "size": "full",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FInstall%20Step%202%20(Flex%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2).png?alt=media&token=dde351e0-8e45-4a67-a63c-d600b2d95cde",
+                "aspectRatio": "5:1",
+                "margin": "md",
+                "type": "image"
+              },
+              {
+                "contents": [
+                  {
+                    "color": "#014672",
+                    "wrap": true,
+                    "weight": "bold",
+                    "type": "text",
+                    "size": "md",
+                    "margin": "md",
+                    "text": "ข้อมูลคำสั่งซื้อ"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "size": "xs",
+                        "color": "#838799",
+                        "flex": 0,
+                        "type": "text",
+                        "text": "Job No."
+                      },
+                      {
+                        "type": "text",
+                        "color": "#292B33",
+                        "align": "end",
+                        "size": "xs",
+                        "text": "Q2507-000008"
+                      }
+                    ],
+                    "type": "box"
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "color": "#838799",
+                        "size": "xs",
+                        "text": "วันรับบริการ",
+                        "flex": 0
+                      },
+                      {
+                        "color": "#292B33",
+                        "type": "text",
+                        "text": "16 กรกฎาคม 2568",
+                        "align": "end",
+                        "size": "xs"
+                      }
+                    ],
+                    "layout": "horizontal"
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "flex": 0,
+                        "text": "เวลารับบริการ",
+                        "size": "xs",
+                        "color": "#838799"
+                      },
+                      {
+                        "type": "text",
+                        "text": "เช้า : 09.00-12.00",
+                        "size": "xs",
+                        "color": "#292B33",
+                        "align": "end"
+                      }
+                    ],
+                    "layout": "horizontal"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "type": "box",
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "size": "xs",
+                        "flex": 0,
+                        "type": "text",
+                        "text": "ชื่อลูกค้า"
+                      },
+                      {
+                        "size": "xs",
+                        "text": "ชนณ์ประคัลภ์ ชนณ์ประคัลภ์",
+                        "align": "end",
+                        "color": "#292B33",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "text": "ยอดชำระแล้ว",
+                        "color": "#838799",
+                        "type": "text",
+                        "size": "xs"
+                      },
+                      {
+                        "text": "650.00 บาท",
+                        "color": "#292B33",
+                        "size": "xs",
+                        "align": "end",
+                        "type": "text"
+                      }
+                    ],
+                    "layout": "horizontal"
+                  }
+                ],
+                "spacing": "none",
+                "margin": "none",
+                "type": "box",
+                "layout": "vertical"
+              },
+              {
+                "text": "รายละเอียดเพิ่มเติม",
+                "decoration": "underline",
+                "size": "xs",
+                "color": "#265ED6",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F686355e85617d08558ae7cd6%3FjobId%3D686356015617d08558ae7cdb"
+                },
+                "type": "text"
+              },
+              {
+                "color": "#014672",
+                "action": {
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F686355e85617d08558ae7cd6%3FjobId%3D686356015617d08558ae7cdb%26uploadFileSendImage=true",
+                  "label": "เพิ่มรูป / วิดีโอหน้างาน"
+                },
+                "type": "button",
+                "margin": "lg",
+                "style": "primary"
+              },
+              {
+                "margin": "lg",
+                "action": {
+                  "label": "เปลี่ยนวันรับบริการ",
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F686355e85617d08558ae7cd6%3FjobId%3D686356015617d08558ae7cdb%26updateAppointmentDate=true"
+                },
+                "color": "#014672",
+                "style": "primary",
+                "type": "button"
+              }
+            ],
+            "layout": "vertical",
+            "type": "box"
+          }
+        },
+        {
+          "header": {
+            "paddingTop": "md",
+            "layout": "baseline",
+            "spacing": "none",
+            "paddingBottom": "md",
+            "type": "box",
+            "contents": [
+              {
+                "type": "icon",
+                "offsetTop": "5px",
+                "size": "md",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FAlert.png?alt=media&token=7bed3e17-f34c-4b15-9c0c-e18aa20a0566"
+              },
+              {
+                "margin": "15px",
+                "type": "text",
+                "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น",
+                "color": "#265ED6",
+                "size": "sm",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          },
+          "body": {
+            "contents": [
+              {
+                "size": "lg",
+                "text": "ยืนยันนัดหมาย",
+                "weight": "bold",
+                "type": "text",
+                "color": "#EF4F30"
+              },
+              {
+                "weight": "bold",
+                "wrap": true,
+                "color": "#002B4D",
+                "type": "text",
+                "maxLines": 2,
+                "text": "บริการล้างแอร์แบบติดผนัง",
+                "size": "xl",
+                "margin": "md"
+              },
+              {
+                "aspectMode": "cover",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FInstall%20Step%202%20(Flex%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2).png?alt=media&token=dde351e0-8e45-4a67-a63c-d600b2d95cde",
+                "margin": "md",
+                "aspectRatio": "5:1",
+                "align": "center",
+                "size": "full",
+                "type": "image"
+              },
+              {
+                "spacing": "none",
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "color": "#014672",
+                    "size": "md",
+                    "type": "text",
+                    "margin": "md",
+                    "weight": "bold",
+                    "text": "ข้อมูลคำสั่งซื้อ",
+                    "wrap": true
+                  },
+                  {
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "size": "xs",
+                        "type": "text",
+                        "text": "Job No.",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "Q2506-000211",
+                        "color": "#292B33",
+                        "align": "end",
+                        "size": "xs"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "horizontal"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "flex": 0,
+                        "size": "xs",
+                        "type": "text",
+                        "text": "วันรับบริการ",
+                        "color": "#838799"
+                      },
+                      {
+                        "type": "text",
+                        "size": "xs",
+                        "color": "#292B33",
+                        "align": "end",
+                        "text": "12 กันยายน 2568"
+                      }
+                    ],
+                    "type": "box"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "size": "xs",
+                        "flex": 0,
+                        "type": "text",
+                        "text": "เวลารับบริการ"
+                      },
+                      {
+                        "size": "xs",
+                        "type": "text",
+                        "align": "end",
+                        "color": "#292B33",
+                        "text": "เช้า : 09.00-12.00"
+                      }
+                    ]
+                  },
+                  {
+                    "contents": [
+                      {
+                        "flex": 0,
+                        "color": "#838799",
+                        "type": "text",
+                        "size": "xs",
+                        "text": "ชื่อลูกค้า"
+                      },
+                      {
+                        "align": "end",
+                        "color": "#292B33",
+                        "size": "xs",
+                        "type": "text",
+                        "text": "ชนณ์ประคัลภ์ ชนณ์ประคัลภ์"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "horizontal"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "type": "box",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "size": "xs",
+                        "color": "#838799",
+                        "text": "ยอดชำระแล้ว"
+                      },
+                      {
+                        "size": "xs",
+                        "color": "#292B33",
+                        "text": "650.00 บาท",
+                        "align": "end",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ],
+                "margin": "none"
+              },
+              {
+                "decoration": "underline",
+                "text": "รายละเอียดเพิ่มเติม",
+                "size": "xs",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685faf00e36a4f47f8ce82aa%3FjobId%3D685faf1fe36a4f47f8ce82b1",
+                  "label": "action",
+                  "type": "uri"
+                },
+                "type": "text",
+                "color": "#265ED6"
+              },
+              {
+                "margin": "lg",
+                "color": "#014672",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685faf00e36a4f47f8ce82aa%3FjobId%3D685faf1fe36a4f47f8ce82b1%26uploadFileSendImage=true",
+                  "type": "uri",
+                  "label": "เพิ่มรูป / วิดีโอหน้างาน"
+                },
+                "type": "button",
+                "style": "primary"
+              },
+              {
+                "action": {
+                  "label": "เปลี่ยนวันรับบริการ",
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685faf00e36a4f47f8ce82aa%3FjobId%3D685faf1fe36a4f47f8ce82b1%26updateAppointmentDate=true"
+                },
+                "type": "button",
+                "style": "primary",
+                "margin": "lg",
+                "color": "#014672"
+              }
+            ],
+            "type": "box",
+            "borderWidth": "none",
+            "layout": "vertical"
+          },
+          "type": "bubble",
+          "styles": {
+            "footer": {
+              "separator": true
+            },
+            "header": {
+              "backgroundColor": "#EEF3FC"
+            }
+          },
+          "footer": {
+            "height": "50px",
+            "contents": [
+              {
+                "size": "xxl",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                "offsetStart": "10px",
+                "type": "icon",
+                "aspectRatio": "1:1"
+              },
+              {
+                "offsetStart": "3px",
+                "margin": "15px",
+                "weight": "bold",
+                "type": "text",
+                "action": {
+                  "label": "โทรหาแอดมิน",
+                  "uri": "tel:028216545",
+                  "type": "uri"
+                },
+                "size": "xs",
+                "color": "#265ED6",
+                "text": "โทรหาแอดมิน",
+                "offsetTop": "-9px"
+              },
+              {
+                "offsetEnd": "5px",
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FNext.png?alt=media&token=483da896-87d1-41d5-8497-64445954c6d6",
+                "size": "xxl"
+              }
+            ],
+            "layout": "baseline",
+            "type": "box"
+          }
+        },
+        {
+          "body": {
+            "type": "box",
+            "borderWidth": "none",
+            "layout": "vertical",
+            "contents": [
+              {
+                "weight": "bold",
+                "type": "text",
+                "size": "lg",
+                "color": "#EF4F30",
+                "text": "ยืนยันนัดหมาย"
+              },
+              {
+                "margin": "md",
+                "weight": "bold",
+                "text": "บริการล้างแอร์แบบติดผนัง",
+                "type": "text",
+                "maxLines": 2,
+                "color": "#002B4D",
+                "size": "xl",
+                "wrap": true
+              },
+              {
+                "size": "full",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FInstall%20Step%202%20(Flex%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2).png?alt=media&token=dde351e0-8e45-4a67-a63c-d600b2d95cde",
+                "align": "center",
+                "margin": "md",
+                "type": "image",
+                "aspectMode": "cover",
+                "aspectRatio": "5:1"
+              },
+              {
+                "contents": [
+                  {
+                    "weight": "bold",
+                    "wrap": true,
+                    "text": "ข้อมูลคำสั่งซื้อ",
+                    "size": "md",
+                    "color": "#014672",
+                    "type": "text",
+                    "margin": "md"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Job No.",
+                        "color": "#838799",
+                        "size": "xs",
+                        "flex": 0
+                      },
+                      {
+                        "align": "end",
+                        "text": "Q2506-000210",
+                        "size": "xs",
+                        "color": "#292B33",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "วันรับบริการ",
+                        "flex": 0,
+                        "type": "text",
+                        "color": "#838799",
+                        "size": "xs"
+                      },
+                      {
+                        "type": "text",
+                        "align": "end",
+                        "color": "#292B33",
+                        "size": "xs",
+                        "text": "8 สิงหาคม 2568"
+                      }
+                    ],
+                    "layout": "horizontal",
+                    "type": "box"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "text": "เวลารับบริการ",
+                        "size": "xs",
+                        "flex": 0,
+                        "type": "text",
+                        "color": "#838799"
+                      },
+                      {
+                        "type": "text",
+                        "color": "#292B33",
+                        "text": "เช้า : 09.00-12.00",
+                        "size": "xs",
+                        "align": "end"
+                      }
+                    ],
+                    "type": "box"
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "size": "xs",
+                        "text": "ชื่อลูกค้า",
+                        "type": "text",
+                        "flex": 0,
+                        "color": "#838799"
+                      },
+                      {
+                        "size": "xs",
+                        "text": "ชนณ์ประคัลภ์ ชนณ์ประคัลภ์",
+                        "color": "#292B33",
+                        "align": "end",
+                        "type": "text"
+                      }
+                    ],
+                    "layout": "horizontal"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "text": "ยอดชำระแล้ว",
+                        "size": "xs",
+                        "type": "text"
+                      },
+                      {
+                        "align": "end",
+                        "text": "650.00 บาท",
+                        "type": "text",
+                        "color": "#292B33",
+                        "size": "xs"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "horizontal"
+                  }
+                ],
+                "spacing": "none",
+                "layout": "vertical",
+                "margin": "none",
+                "type": "box"
+              },
+              {
+                "size": "xs",
+                "color": "#265ED6",
+                "action": {
+                  "label": "action",
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fae35e36a4f47f8ce82a1%3FjobId%3D685fae48e36a4f47f8ce82a6"
+                },
+                "type": "text",
+                "text": "รายละเอียดเพิ่มเติม",
+                "decoration": "underline"
+              },
+              {
+                "style": "primary",
+                "type": "button",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fae35e36a4f47f8ce82a1%3FjobId%3D685fae48e36a4f47f8ce82a6%26uploadFileSendImage=true",
+                  "label": "เพิ่มรูป / วิดีโอหน้างาน",
+                  "type": "uri"
+                },
+                "margin": "lg",
+                "color": "#014672"
+              },
+              {
+                "margin": "lg",
+                "style": "primary",
+                "color": "#014672",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fae35e36a4f47f8ce82a1%3FjobId%3D685fae48e36a4f47f8ce82a6%26updateAppointmentDate=true",
+                  "type": "uri",
+                  "label": "เปลี่ยนวันรับบริการ"
+                },
+                "type": "button"
+              }
+            ]
+          },
+          "header": {
+            "layout": "baseline",
+            "paddingTop": "md",
+            "type": "box",
+            "contents": [
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FAlert.png?alt=media&token=7bed3e17-f34c-4b15-9c0c-e18aa20a0566",
+                "size": "md",
+                "offsetTop": "5px",
+                "type": "icon"
+              },
+              {
+                "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น",
+                "color": "#265ED6",
+                "size": "sm",
+                "wrap": true,
+                "contents": [],
+                "margin": "15px",
+                "type": "text"
+              }
+            ],
+            "paddingBottom": "md",
+            "spacing": "none"
+          },
+          "footer": {
+            "contents": [
+              {
+                "size": "xxl",
+                "offsetStart": "10px",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                "type": "icon",
+                "aspectRatio": "1:1"
+              },
+              {
+                "color": "#265ED6",
+                "weight": "bold",
+                "margin": "15px",
+                "offsetTop": "-9px",
+                "offsetStart": "3px",
+                "size": "xs",
+                "text": "โทรหาแอดมิน",
+                "action": {
+                  "type": "uri",
+                  "label": "โทรหาแอดมิน",
+                  "uri": "tel:028216545"
+                },
+                "type": "text"
+              },
+              {
+                "offsetEnd": "5px",
+                "type": "icon",
+                "size": "xxl",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FNext.png?alt=media&token=483da896-87d1-41d5-8497-64445954c6d6"
+              }
+            ],
+            "type": "box",
+            "layout": "baseline",
+            "height": "50px"
+          },
+          "type": "bubble",
+          "styles": {
+            "footer": {
+              "separator": true
+            },
+            "header": {
+              "backgroundColor": "#EEF3FC"
+            }
+          }
+        },
+        {
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "text": "ยืนยันนัดหมาย",
+                "type": "text",
+                "color": "#EF4F30",
+                "weight": "bold",
+                "size": "lg"
+              },
+              {
+                "color": "#002B4D",
+                "text": "บริการล้างแอร์แบบติดผนัง",
+                "weight": "bold",
+                "type": "text",
+                "maxLines": 2,
+                "wrap": true,
+                "margin": "md",
+                "size": "xl"
+              },
+              {
+                "margin": "md",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FInstall%20Step%202%20(Flex%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2).png?alt=media&token=dde351e0-8e45-4a67-a63c-d600b2d95cde",
+                "aspectRatio": "5:1",
+                "aspectMode": "cover",
+                "align": "center",
+                "type": "image",
+                "size": "full"
+              },
+              {
+                "spacing": "none",
+                "contents": [
+                  {
+                    "text": "ข้อมูลคำสั่งซื้อ",
+                    "margin": "md",
+                    "type": "text",
+                    "weight": "bold",
+                    "wrap": true,
+                    "color": "#014672",
+                    "size": "md"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "flex": 0,
+                        "color": "#838799",
+                        "size": "xs",
+                        "text": "Job No.",
+                        "type": "text"
+                      },
+                      {
+                        "type": "text",
+                        "color": "#292B33",
+                        "text": "Q2506-000209",
+                        "size": "xs",
+                        "align": "end"
+                      }
+                    ],
+                    "type": "box"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "flex": 0,
+                        "type": "text",
+                        "text": "วันรับบริการ",
+                        "size": "xs",
+                        "color": "#838799"
+                      },
+                      {
+                        "align": "end",
+                        "color": "#292B33",
+                        "size": "xs",
+                        "text": "13 สิงหาคม 2568",
+                        "type": "text"
+                      }
+                    ],
+                    "type": "box"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "type": "text",
+                        "color": "#838799",
+                        "text": "เวลารับบริการ",
+                        "flex": 0,
+                        "size": "xs"
+                      },
+                      {
+                        "size": "xs",
+                        "text": "เช้า : 09.00-12.00",
+                        "align": "end",
+                        "type": "text",
+                        "color": "#292B33"
+                      }
+                    ],
+                    "layout": "horizontal",
+                    "type": "box"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "type": "box",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "flex": 0,
+                        "color": "#838799",
+                        "size": "xs",
+                        "text": "ชื่อลูกค้า"
+                      },
+                      {
+                        "color": "#292B33",
+                        "type": "text",
+                        "size": "xs",
+                        "text": "ชนณ์ประคัลภ์ ชนณ์ประคัลภ์",
+                        "align": "end"
+                      }
+                    ]
+                  },
+                  {
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "size": "xs",
+                        "type": "text",
+                        "text": "ยอดชำระแล้ว"
+                      },
+                      {
+                        "type": "text",
+                        "color": "#292B33",
+                        "align": "end",
+                        "text": "650.00 บาท",
+                        "size": "xs"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "horizontal"
+                  }
+                ],
+                "type": "box",
+                "layout": "vertical",
+                "margin": "none"
+              },
+              {
+                "color": "#265ED6",
+                "size": "xs",
+                "decoration": "underline",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fadbce36a4f47f8ce8298%3FjobId%3D685fadd0e36a4f47f8ce829d",
+                  "type": "uri",
+                  "label": "action"
+                },
+                "text": "รายละเอียดเพิ่มเติม",
+                "type": "text"
+              },
+              {
+                "type": "button",
+                "margin": "lg",
+                "style": "primary",
+                "color": "#014672",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fadbce36a4f47f8ce8298%3FjobId%3D685fadd0e36a4f47f8ce829d%26uploadFileSendImage=true",
+                  "label": "เพิ่มรูป / วิดีโอหน้างาน",
+                  "type": "uri"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "label": "เปลี่ยนวันรับบริการ",
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fadbce36a4f47f8ce8298%3FjobId%3D685fadd0e36a4f47f8ce829d%26updateAppointmentDate=true"
+                },
+                "margin": "lg",
+                "color": "#014672",
+                "style": "primary"
+              }
+            ],
+            "borderWidth": "none"
+          },
+          "type": "bubble",
+          "styles": {
+            "footer": {
+              "separator": true
+            },
+            "header": {
+              "backgroundColor": "#EEF3FC"
+            }
+          },
+          "header": {
+            "paddingBottom": "md",
+            "layout": "baseline",
+            "paddingTop": "md",
+            "contents": [
+              {
+                "offsetTop": "5px",
+                "type": "icon",
+                "size": "md",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FAlert.png?alt=media&token=7bed3e17-f34c-4b15-9c0c-e18aa20a0566"
+              },
+              {
+                "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น",
+                "color": "#265ED6",
+                "size": "sm",
+                "type": "text",
+                "margin": "15px",
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "type": "box",
+            "spacing": "none"
+          },
+          "footer": {
+            "layout": "baseline",
+            "height": "50px",
+            "contents": [
+              {
+                "aspectRatio": "1:1",
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                "size": "xxl",
+                "offsetStart": "10px"
+              },
+              {
+                "margin": "15px",
+                "offsetTop": "-9px",
+                "type": "text",
+                "text": "โทรหาแอดมิน",
+                "size": "xs",
+                "offsetStart": "3px",
+                "color": "#265ED6",
+                "action": {
+                  "uri": "tel:028216545",
+                  "type": "uri",
+                  "label": "โทรหาแอดมิน"
+                },
+                "weight": "bold"
+              },
+              {
+                "offsetEnd": "5px",
+                "size": "xxl",
+                "type": "icon",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FNext.png?alt=media&token=483da896-87d1-41d5-8497-64445954c6d6"
+              }
+            ],
+            "type": "box"
+          }
+        },
+        {
+          "header": {
+            "type": "box",
+            "paddingBottom": "md",
+            "spacing": "none",
+            "paddingTop": "md",
+            "contents": [
+              {
+                "size": "md",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FAlert.png?alt=media&token=7bed3e17-f34c-4b15-9c0c-e18aa20a0566",
+                "type": "icon",
+                "offsetTop": "5px"
+              },
+              {
+                "margin": "15px",
+                "contents": [],
+                "wrap": true,
+                "size": "sm",
+                "color": "#265ED6",
+                "type": "text",
+                "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น"
+              }
+            ],
+            "layout": "baseline"
+          },
+          "type": "bubble",
+          "body": {
+            "layout": "vertical",
+            "contents": [
+              {
+                "size": "lg",
+                "color": "#EF4F30",
+                "weight": "bold",
+                "text": "ยืนยันนัดหมาย",
+                "type": "text"
+              },
+              {
+                "wrap": true,
+                "maxLines": 2,
+                "weight": "bold",
+                "type": "text",
+                "color": "#002B4D",
+                "text": "บริการล้างแอร์แบบติดผนัง",
+                "margin": "md",
+                "size": "xl"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FInstall%20Step%202%20(Flex%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2).png?alt=media&token=dde351e0-8e45-4a67-a63c-d600b2d95cde",
+                "margin": "md",
+                "type": "image",
+                "aspectRatio": "5:1",
+                "aspectMode": "cover",
+                "size": "full",
+                "align": "center"
+              },
+              {
+                "contents": [
+                  {
+                    "text": "ข้อมูลคำสั่งซื้อ",
+                    "wrap": true,
+                    "size": "md",
+                    "color": "#014672",
+                    "type": "text",
+                    "weight": "bold",
+                    "margin": "md"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Job No.",
+                        "size": "xs",
+                        "color": "#838799",
+                        "flex": 0
+                      },
+                      {
+                        "align": "end",
+                        "type": "text",
+                        "size": "xs",
+                        "text": "Q2506-000208",
+                        "color": "#292B33"
+                      }
+                    ],
+                    "type": "box"
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "size": "xs",
+                        "type": "text",
+                        "text": "วันรับบริการ",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "color": "#292B33",
+                        "align": "end",
+                        "text": "9 ตุลาคม 2568",
+                        "size": "xs"
+                      }
+                    ],
+                    "layout": "horizontal"
+                  },
+                  {
+                    "type": "box",
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "text": "เวลารับบริการ",
+                        "size": "xs",
+                        "type": "text",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "size": "xs",
+                        "color": "#292B33",
+                        "align": "end",
+                        "text": "เช้า : 09.00-12.00"
+                      }
+                    ],
+                    "layout": "horizontal"
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "ชื่อลูกค้า",
+                        "color": "#838799",
+                        "type": "text",
+                        "size": "xs",
+                        "flex": 0
+                      },
+                      {
+                        "size": "xs",
+                        "color": "#292B33",
+                        "text": "ชนณ์ประคัลภ์ ชนณ์ประคัลภ์",
+                        "align": "end",
+                        "type": "text"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "horizontal"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "color": "#838799",
+                        "size": "xs",
+                        "text": "ยอดชำระแล้ว",
+                        "type": "text"
+                      },
+                      {
+                        "size": "xs",
+                        "align": "end",
+                        "text": "650.00 บาท",
+                        "color": "#292B33",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ],
+                "margin": "none",
+                "layout": "vertical",
+                "type": "box",
+                "spacing": "none"
+              },
+              {
+                "decoration": "underline",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fad56e36a4f47f8ce828f%3FjobId%3D685fad7be36a4f47f8ce8294",
+                  "label": "action",
+                  "type": "uri"
+                },
+                "size": "xs",
+                "color": "#265ED6",
+                "text": "รายละเอียดเพิ่มเติม",
+                "type": "text"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "label": "เพิ่มรูป / วิดีโอหน้างาน",
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fad56e36a4f47f8ce828f%3FjobId%3D685fad7be36a4f47f8ce8294%26uploadFileSendImage=true"
+                },
+                "style": "primary",
+                "color": "#014672",
+                "margin": "lg"
+              },
+              {
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fad56e36a4f47f8ce828f%3FjobId%3D685fad7be36a4f47f8ce8294%26updateAppointmentDate=true",
+                  "label": "เปลี่ยนวันรับบริการ",
+                  "type": "uri"
+                },
+                "type": "button",
+                "color": "#014672",
+                "style": "primary",
+                "margin": "lg"
+              }
+            ],
+            "borderWidth": "none",
+            "type": "box"
+          },
+          "footer": {
+            "layout": "baseline",
+            "type": "box",
+            "height": "50px",
+            "contents": [
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                "aspectRatio": "1:1",
+                "type": "icon",
+                "size": "xxl",
+                "offsetStart": "10px"
+              },
+              {
+                "text": "โทรหาแอดมิน",
+                "action": {
+                  "type": "uri",
+                  "uri": "tel:028216545",
+                  "label": "โทรหาแอดมิน"
+                },
+                "offsetTop": "-9px",
+                "margin": "15px",
+                "color": "#265ED6",
+                "offsetStart": "3px",
+                "type": "text",
+                "size": "xs",
+                "weight": "bold"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FNext.png?alt=media&token=483da896-87d1-41d5-8497-64445954c6d6",
+                "offsetEnd": "5px",
+                "type": "icon",
+                "size": "xxl"
+              }
+            ]
+          },
+          "styles": {
+            "header": {
+              "backgroundColor": "#EEF3FC"
+            },
+            "footer": {
+              "separator": true
+            }
+          }
+        },
+        {
+          "styles": {
+            "footer": {
+              "separator": true
+            },
+            "header": {
+              "backgroundColor": "#EEF3FC"
+            }
+          },
+          "footer": {
+            "height": "50px",
+            "contents": [
+              {
+                "aspectRatio": "1:1",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2Ficn_support_agent_blue_bg.png?alt=media&token=ebfbb629-5664-415e-a13b-38a3eb24fd3c",
+                "offsetStart": "10px",
+                "size": "xxl",
+                "type": "icon"
+              },
+              {
+                "action": {
+                  "label": "โทรหาแอดมิน",
+                  "uri": "tel:028216545",
+                  "type": "uri"
+                },
+                "color": "#265ED6",
+                "offsetTop": "-9px",
+                "offsetStart": "3px",
+                "weight": "bold",
+                "text": "โทรหาแอดมิน",
+                "size": "xs",
+                "type": "text",
+                "margin": "15px"
+              },
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FNext.png?alt=media&token=483da896-87d1-41d5-8497-64445954c6d6",
+                "type": "icon",
+                "offsetEnd": "5px",
+                "size": "xxl"
+              }
+            ],
+            "type": "box",
+            "layout": "baseline"
+          },
+          "type": "bubble",
+          "header": {
+            "layout": "baseline",
+            "paddingBottom": "md",
+            "type": "box",
+            "contents": [
+              {
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FAlert.png?alt=media&token=7bed3e17-f34c-4b15-9c0c-e18aa20a0566",
+                "type": "icon",
+                "offsetTop": "5px",
+                "size": "md"
+              },
+              {
+                "color": "#265ED6",
+                "size": "sm",
+                "type": "text",
+                "margin": "15px",
+                "text": "เพิ่มรูป / วิดีโอหน้างาน เพื่อให้ทีมช่างวางแผนการทำงานได้ดียิ่งขึ้น",
+                "wrap": true,
+                "contents": []
+              }
+            ],
+            "paddingTop": "md",
+            "spacing": "none"
+          },
+          "body": {
+            "borderWidth": "none",
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "color": "#EF4F30",
+                "text": "ยืนยันนัดหมาย",
+                "weight": "bold",
+                "size": "lg",
+                "type": "text"
+              },
+              {
+                "margin": "md",
+                "wrap": true,
+                "color": "#002B4D",
+                "type": "text",
+                "text": "บริการล้างแอร์แบบติดผนัง",
+                "weight": "bold",
+                "size": "xl",
+                "maxLines": 2
+              },
+              {
+                "type": "image",
+                "url": "https://firebasestorage.googleapis.com/v0/b/fir-prod-d8416.appspot.com/o/line%2Ficon-flexmsg%2FInstall%20Step%202%20(Flex%20%E0%B8%A2%E0%B8%B7%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2).png?alt=media&token=dde351e0-8e45-4a67-a63c-d600b2d95cde",
+                "size": "full",
+                "aspectRatio": "5:1",
+                "margin": "md",
+                "align": "center",
+                "aspectMode": "cover"
+              },
+              {
+                "spacing": "none",
+                "contents": [
+                  {
+                    "type": "text",
+                    "color": "#014672",
+                    "weight": "bold",
+                    "margin": "md",
+                    "text": "ข้อมูลคำสั่งซื้อ",
+                    "size": "md",
+                    "wrap": true
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "Job No.",
+                        "size": "xs",
+                        "flex": 0,
+                        "type": "text",
+                        "color": "#838799"
+                      },
+                      {
+                        "align": "end",
+                        "text": "Q2506-000207",
+                        "size": "xs",
+                        "type": "text",
+                        "color": "#292B33"
+                      }
+                    ],
+                    "layout": "horizontal",
+                    "type": "box"
+                  },
+                  {
+                    "layout": "horizontal",
+                    "type": "box",
+                    "contents": [
+                      {
+                        "text": "วันรับบริการ",
+                        "type": "text",
+                        "flex": 0,
+                        "size": "xs",
+                        "color": "#838799"
+                      },
+                      {
+                        "type": "text",
+                        "align": "end",
+                        "text": "24 ตุลาคม 2568",
+                        "size": "xs",
+                        "color": "#292B33"
+                      }
+                    ]
+                  },
+                  {
+                    "contents": [
+                      {
+                        "text": "เวลารับบริการ",
+                        "type": "text",
+                        "size": "xs",
+                        "color": "#838799",
+                        "flex": 0
+                      },
+                      {
+                        "text": "เช้า : 09.00-12.00",
+                        "align": "end",
+                        "color": "#292B33",
+                        "size": "xs",
+                        "type": "text"
+                      }
+                    ],
+                    "type": "box",
+                    "layout": "horizontal"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "text": "ชื่อลูกค้า",
+                        "color": "#838799",
+                        "type": "text",
+                        "size": "xs",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "align": "end",
+                        "text": "ชนณ์ประคัลภ์ ชนณ์ประคัลภ์",
+                        "color": "#292B33",
+                        "size": "xs"
+                      }
+                    ]
+                  },
+                  {
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "size": "xs",
+                        "color": "#838799",
+                        "type": "text",
+                        "text": "ยอดชำระแล้ว"
+                      },
+                      {
+                        "text": "650.00 บาท",
+                        "color": "#292B33",
+                        "size": "xs",
+                        "type": "text",
+                        "align": "end"
+                      }
+                    ],
+                    "type": "box"
+                  }
+                ],
+                "type": "box",
+                "margin": "none",
+                "layout": "vertical"
+              },
+              {
+                "type": "text",
+                "text": "รายละเอียดเพิ่มเติม",
+                "decoration": "underline",
+                "size": "xs",
+                "color": "#265ED6",
+                "action": {
+                  "label": "action",
+                  "type": "uri",
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fad1ce36a4f47f8ce8286%3FjobId%3D685fad2ee36a4f47f8ce828b"
+                }
+              },
+              {
+                "margin": "lg",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fad1ce36a4f47f8ce8286%3FjobId%3D685fad2ee36a4f47f8ce828b%26uploadFileSendImage=true",
+                  "label": "เพิ่มรูป / วิดีโอหน้างาน",
+                  "type": "uri"
+                },
+                "style": "primary",
+                "color": "#014672",
+                "type": "button"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "uri": "https://liff.line.me/1661420413-bqWmEe85?redirectUrl=%2Ftracking%2Forder%2F685fad1ce36a4f47f8ce8286%3FjobId%3D685fad2ee36a4f47f8ce828b%26updateAppointmentDate=true",
+                  "label": "เปลี่ยนวันรับบริการ",
+                  "type": "uri"
+                },
+                "margin": "lg",
+                "style": "primary",
+                "color": "#014672"
+              }
+            ]
+          }
+        },
+        {
+          "direction": "ltr",
+          "type": "bubble",
+          "footer": {
+            "contents": [
+              {
+                "action": {
+                  "label": "more",
+                  "type": "postback",
+                  "data": "serviceMenu=tracking-job-2"
+                },
+                "type": "button"
+              }
+            ],
+            "layout": "horizontal",
+            "type": "box"
+          }
+        }
+      ]
+    }
